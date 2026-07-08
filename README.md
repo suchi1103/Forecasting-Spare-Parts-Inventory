@@ -56,3 +56,8 @@ Maintaining an un-optimized warehouse layout causes severe operational bottlenec
 
 ## 🔭 Scope of Work
 
+1.  **Extraction:** Designing optimized SQL queries to fetch clean relational records across service tables.
+2.  **Feature Engineering:** Converting object datetime strings into computational index intervals and restructuring text descriptions into uniform part categories.
+3.  **Visual Analytics:** Mapping consumption frequency histograms, tracking mileage-to-wear ratios, and running structural seasonality checks.
+4.  **Predictive Pipelines:** Training regression frameworks and time-series forecasting models to compute demand limits.
+5.  **Statistical Diagnostics:** Assessing model reliability through error metrics (MAE, RMSE) to guarantee safe deployment profiles inside active service centers.
